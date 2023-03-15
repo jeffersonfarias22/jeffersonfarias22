@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jefferson Farias 👋
 
 - 🧑‍💼 Hoje trabalho com Front-end e Analista de Sistema ERP 
--WINTHOR,MAXIMA SISTEMAS ,Sistemas administrativos , solucoes em processos internos!
+-WINTHOR,MAXIMA SISTEMAS ,Sistemas administrativos , Solucoes em processos internos!
 - 📘 Estudando Typescript,React...
 - 📫 Contate-me no email: jeffersonfarias2022@gmail.com
 
