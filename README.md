@@ -3,7 +3,7 @@
 - 👨🏻‍💻 Hoje trabalho com Front-end 
 - 👨🏻‍💻 Analista de Sistema  
 - 👨🏻‍💻 ERP Winthor,Maxima Sistema ,
-- 👨🏻‍💻 Sistemas administrativos 
+- 👨🏻‍💻 👨🏻‍💻Sistemas administrativos 
 - 👨🏻‍💻 Solucoes em processos internos!
 - 📘 Estudando Typescript,React...
 - 📫 Contate-me no email: jeffersonfarias2022@gmail.com
