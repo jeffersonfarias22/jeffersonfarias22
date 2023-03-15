@@ -7,10 +7,10 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jeffer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jeffer-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="jeffer-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="jeffer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jeffer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="jeffers-git" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/1710941_HLogNaI7.png">
+  <img align="right" alt="jeffers-git" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/1710941_HLogNaI7.png">
 </div>
 
 ##
