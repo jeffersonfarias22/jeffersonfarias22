@@ -4,7 +4,7 @@
 - 👨🏻‍💻 Analista de Sistema  
 - 👨🏻‍💻 ERP Winthor,Maxima Sistema ,
 - 👨🏻‍💻 Sistemas administrativos 
-- 👨🏻‍💻 Solucoes em processos internos!
+- 👨🏻‍💻 Solucões em processos internos!
 - 📘 Estudando Typescript,React...
 - 📫 Contate-me no email: jeffersonfarias2022@gmail.com
 
